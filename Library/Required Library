@@ -1,0 +1,5 @@
+Required Libraries:
+- WiFi.h
+- Wire.h
+- HT_SSD1306Wire.h (for OLED)
+- SparkFun_SCD30_Arduino_Library.h
