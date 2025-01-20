@@ -1,7 +1,7 @@
 SparkFun SCD30 CO₂ Sensor Library
 ===========================================================
 
-![SparkFun SCD30 CO₂ Sensor](Image/IMG_1021.JPG)
+![SparkFun SCD30 CO₂ Sensor]([Image/IMG_1021.JPG](https://github.com/Superbrida/Heltec_wireless_stick_V3_SCD30/blob/main/Image/IMG_1021.JPG?raw=true))
 
 [*SparkX CO₂ Humidity and Temperature Sensor - SCD30 (SPX-14751)*](https://www.sparkfun.com/products/14751)
 
