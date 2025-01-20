@@ -42,7 +42,7 @@ This project utilizes the **Heltec Wireless Stick V3 (ESP32-S3)** microcontrolle
   - `Wire.h`
   - `HT_SSD1306Wire.h` (for OLED)
   - `SparkFun_SCD30_Arduino_Library.h`
-- **PlatformIO** (optional)
+
 
 ---
 
