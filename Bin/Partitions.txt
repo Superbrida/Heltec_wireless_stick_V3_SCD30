@@ -1,1 +1,4 @@
-
+esptool.py --chip esp32s3 --port /dev/ttyUSB0 write_flash \
+    0x1000 Heltec_OLED_SCD_30_v2_6.ino.bootloader.bin \
+    0x8000 Heltec_OLED_SCD_30_v2_6.ino.partitions.bin \
+    0x10000 Heltec_OLED_SCD_30_v2_6.ino.bin
