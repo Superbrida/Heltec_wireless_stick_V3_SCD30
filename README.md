@@ -1,7 +1,7 @@
 # Heltec_wireless_stick_V3_SCD30
 # CO2 Monitoring with Heltec Wireless Stick V3 and SCD30
 
-![Project Image](https://example.com/project-image.jpg)  <!-- Replace with an actual image URL -->
+![Project Image]([https://example.com/project-image.jpg](https://github.com/Superbrida/Heltec_wireless_stick_V3_SCD30/blob/main/IMG_1021.JPG))  <!-- Replace with an actual image URL -->
 
 ## 📋 Project Description
 
